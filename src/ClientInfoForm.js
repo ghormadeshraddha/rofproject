@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './ClientInfoForm.css';
-import logo from './logo.png';
-import formVisual from './form-visual.png';
+import logo from './Images/Assets/logo.png';
+import formVisual from './Images/Assets/form-visual.png';
 
 const ClientInfoForm = () => {
   const [budget, setBudget] = useState('');
